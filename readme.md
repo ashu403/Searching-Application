@@ -1,4 +1,4 @@
-# Kodo Assignment
+# Searching Application
 
 This is a posts searching application, you can search, sort and paginate the posts.
 
